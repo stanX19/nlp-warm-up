@@ -2,9 +2,7 @@
 
 A small notebook to warm up/check the NLP environment before running for code in UM's NLP course.
 
-It preloads common NLP packages, datasets, and models used across the tutorials.
-
-It also acts as a quick test that your device or Google Colab runtime can run code involved in the NLP course.
+It preloads common NLP packages, datasets, and models used across the tutorials. It also contain codes that acts as a quick test to make sure the runtime is ready.
 
 Time saved in testing:
 
