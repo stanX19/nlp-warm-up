@@ -1,8 +1,10 @@
 # NLP Tutorial Warm-Up Notebook
 
-A small notebook to warm up/check the NLP tutorial environment before running weekly tutorial code.
+A small notebook to warm up/check the NLP environment before running for code in UM's NLP course.
 
-It preloads common NLP packages, datasets, and models used across the tutorials, so it can also act as a quick test that your device or Google Colab runtime can run the lecturer’s code.
+It preloads common NLP packages, datasets, and models used across the tutorials.
+
+It also acts as a quick test that your device or Google Colab runtime can run code involved in the NLP course.
 
 Time saved in testing:
 
@@ -21,4 +23,4 @@ Disclaimer
 
 This notebook is a helper/warm-up tool only. Its not guaranteed to serve as an 100% source of truth.
 
-Date prepared: 16 June 2026
+Date: 16 June 2026
